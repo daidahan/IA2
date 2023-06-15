@@ -4,3 +4,5 @@
 #logre limpiar el disco duro usando bleachbit quedando con 6 gb libres
 #tambien corri una app UCareSystem Core que tambien hizo lo suyo auque no comprendi su uso ni su aporte
 #instale stacer para administrar procesos del inicio, demonios packages, etc.
+
+#hoy logre sincronizar el repositorio local con github
